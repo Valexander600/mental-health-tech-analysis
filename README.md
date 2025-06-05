@@ -1,26 +1,31 @@
 # Mental Health in Tech – Data Analysis Project
 
-This project explores mental health trends in the tech industry using survey data.  
-It includes data cleaning, exploratory analysis, and visualizations created with Python.
+## Project Overview
+This project analyzes survey data to explore mental health trends within the tech industry. It focuses on treatment rates, gender disparities, and workplace perceptions to better understand the challenges faced by tech professionals.
 
-## Dataset
-- Source: [Mental Health in Tech Survey (Kaggle)](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
+## Key Findings
+- [Highlight your main insights here, e.g.,]
+- Treatment rates vary significantly across age groups.
+- Gender plays a notable role in mental health treatment seeking.
+- Workplace culture impacts willingness to discuss mental health.
 
-## Key Insights
-- Proportion of respondents who have received mental health treatment
-- Treatment trends by gender
-- Perceived workplace consequences of mental vs. physical health
+## Dataset Information
+The analysis uses the **Mental Health in Tech Survey** dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey).
 
-## Tools Used
-- Python (Pandas, Matplotlib)
+## Technologies Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebooks
 - Google Colab
-- GitHub for version control
+- GitHub
 
 ## Visualizations
-Included in the notebook:  
-- Bar charts for treatment rates  
-- Stacked bars by gender  
-- Mental vs. physical health workplace impact
+Included are charts and graphs such as:
+- Treatment rates by gender and age
+- Mental health benefits offered by employers
+- Correlations between workplace environment and mental health treatment
 
-## Author
-Victoria Alexander
+## Installation Instructions
+To replicate this project locally:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Valexander600/mental-health-tech-analysis.git
