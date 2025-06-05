@@ -1,4 +1,8 @@
 # Mental Health in Tech – Data Analysis Project
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## Project Overview
 This project analyzes survey data to explore mental health trends within the tech industry. It focuses on treatment rates, gender disparities, and workplace perceptions to better understand the challenges faced by tech professionals.
@@ -29,7 +33,6 @@ To replicate this project locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Valexander600/mental-health-tech-analysis.git
-
 
 ## 🌱 Mental Health Matters
 This project was made with ❤️ to promote awareness around mental health in the tech community. Let’s keep the conversation going, support each other, and build healthier workplaces together.
